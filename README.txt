@@ -26,6 +26,10 @@ Per il progetto (unico) realizzato mediante NetBeans IDE 13:
 
 --> Progetto Java > Palestra
 
+N.B 
+L'esecuzione del codice avviene da terminale, dunque non ci sono particolari 
+informazioni da fornire circa l'istallazione di particolari tools e/o librerie.
+
 ----------------------------------------------------------------------------------------
 PROGETTO ASTAH
 ----------------------------------------------------------------------------------------
