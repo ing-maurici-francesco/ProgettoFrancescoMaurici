@@ -9,8 +9,11 @@ Per la documentazione completa :
 ----------------------------------------------------------------------------------------
 
 Per la documentazione relativa ad ogni singola Iterazione (compresa in quella generale): 
+Ogni cartella contiene anche le immagini relative ai diagrammi, usate nel pdf
 
-N.B Ogni cartella contiene anche le immagini relative ai diagrammi, usate nel pdf
+N.B
+Si prega per i diagrammi di fare riferimento al progetto Astah in quanto potrei aver 
+dimenticato di sostituire e aggiornare opportunamente i png relativi agli UML realizzati.
 
 --> 1. Fase di Ideazione > Fase Ideazione.pdf
 --> 2. Fase di Elaborazione (Iter1) > Fase di Elaborazione (Iter1).pdf
@@ -38,6 +41,10 @@ Per il progetto (unico) in formato asta realizzato:
 
 --> Progetto Astah > Palestra.FrancescoMaurici.asta
 
+N.B
+Si prega per i diagrammi di fare riferimento al progetto Astah in quanto potrei aver 
+dimenticato di sostituire e aggiornare opportunamente i png relativi agli UML realizzati.
+
 ----------------------------------------------------------------------------------------
 DOCUMENTAZIONE TEST UNITARI E PATTERN
 ----------------------------------------------------------------------------------------
@@ -62,6 +69,10 @@ Per quanto riguarda l'implementazione anche al file Iscrizione è stato aggiunto
 Per i diagrammi dei Pattern in formato png:
 
 --> Diagrammi Pattern(Immagini) > 1. Singleton // 2. Prototype // 3.Command
+
+N.B
+Si prega per i diagrammi di fare riferimento al progetto Astah in quanto potrei aver 
+dimenticato di sostituire e aggiornare opportunamente i png relativi agli UML realizzati.
 
 ----------------------------------------------------------------------------------------
 
